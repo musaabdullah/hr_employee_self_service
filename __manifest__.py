@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 {
     "name": "HR Employee Self Service",
     "version": "16.0.0.1",
@@ -53,8 +54,8 @@ employee holidays
 self service portal
 """,
     "author": "Musa Abdullah",
-    "website": "http://www.probuse.com",
-    "support": "contact@probuse.com",
+    "website": "https://www.linkedin.com/in/musa-abdullah-odoo/",
+    "support": "musaabdalwahed@gmail.com",
     "images": ["static/description/img1.jpg"],
     "depends": [
 #                 "hr_timesheet_sheet",
