@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
-
-# Part of Probuse Consulting Service Pvt Ltd. See LICENSE file for full copyright and licensing details.
-
 {
-    "name": "Employee Self Service",
-    "version": "2.7.1",
+    "name": "HR Employee Self Service",
+    "version": "16.0.0.1",
     "category" : "Human Resources",
     "license": "Other proprietary",
-    "price": 49.0,
-    "currency": "EUR",
     "summary": """This module allow your employee to have self service in Odoo.""",
     "description": """
 It will include all the  Employee self service info. 
@@ -57,12 +52,10 @@ employee timesheet
 employee holidays
 self service portal
 """,
-    "author": "Probuse Consulting Service Pvt. Ltd.",
+    "author": "Musa Abdullah",
     "website": "http://www.probuse.com",
     "support": "contact@probuse.com",
     "images": ["static/description/img1.jpg"],
-#    "live_test_url": "https://youtu.be/Ou1sWt7ndTw",
-    "live_test_url": 'https://probuseappdemo.com/probuse_apps/employee_self_service_odoo/812',#"https://youtu.be/GDn3mfnu8is",
     "depends": [
 #                 "hr_timesheet_sheet",
                 'hr_timesheet',
